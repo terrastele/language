@@ -1,1 +1,14 @@
 0,1 binary
+f,g func
+a,b object
+x,y variable
+.:| seperator
+- beep
+fffffffff =
+ffffffffg +
+fffffffgf >
+fffffffgg <
+ffffffgff →
+ffffffgfg ↔
+ffffffggf
+ffffffggg
