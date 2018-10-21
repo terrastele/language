@@ -10,5 +10,6 @@ fffffffgf >
 fffffffgg <
 ffffffgff →
 ffffffgfg ↔
-ffffffggf
+ffffffggf ≠
 ffffffggg
+fffffgfff
